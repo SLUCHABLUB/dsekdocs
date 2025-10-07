@@ -23,4 +23,4 @@ incompatible with `pdflatex`. So, to use this package, use `xelatex` or
 ## Licensing
 
 The code in this directory belongs to the D-guild and is publically licensed
-under the Expat license. See `LICENSE.txt` for more information.
+under the Expat license. See `LICENSE` for more information.
